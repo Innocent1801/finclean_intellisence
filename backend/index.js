@@ -21,6 +21,7 @@ app.use(
       "https://fincclean.vercel.app",
       "https://laundromat.eduos.com.ng",
       "http://localhost:5173",
+      "https://finclean-intellisence-jyck.vercel.app"
     ],
     credentials: true,
   })
